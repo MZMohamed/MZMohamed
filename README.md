@@ -11,6 +11,7 @@ Founder of **AppTus** — a Cape Town web & AI engineering studio shipping compl
 <p align="center">
 <a href="http://zubair.xyz"><img src="https://img.shields.io/badge/Portfolio-zubair.xyz-0891b2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:zubair85@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1c1917?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/zubair-mohomed-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://www.twitter.com/85zubair"><img src="https://img.shields.io/badge/X-@85zubair-1c1917?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
@@ -29,7 +30,9 @@ I design and ship AI-native software — from agent orchestration and LLM-powere
 Today my work sits at the intersection of **applied AI, edge-native architectures, and pragmatic delivery** — with a strong bias toward data ownership, predictable costs, and infrastructure-as-code.
 
 - 🤖 **Building with agents daily** — autonomous fleets for marketing, monitoring, and ops, orchestrated across managed and open models via gateways
-- 🌍 Running **AppTus**, delivering for government (Western Cape), education, and private enterprise
+- 🏛️ **3+ years on enterprise Drupal + Azure** for the Western Cape Government (via GMT / Tanzanite) — solution architecture, IaC, POPIA compliance
+- 🎙️ Software engineer at **Muslim Central / Quran Central** since 2018 — audio streaming to millions across ~15 entities
+- 🌍 Running **AppTus**, delivering for government, museums, education, and private enterprise
 - 🕌 Open to collaborating on **Islamic tech** and open-source educational tools
 - ☁️ Deep in **Cloudflare Workers, D1, R2** and edge-first serverless
 - ⚡ Yes, I can center a div — and deploy it with Docker, CI/CD, edge caching, and an agent that monitors it
@@ -59,40 +62,66 @@ Where I spend most of my energy now — turning LLMs into reliable, shippable sy
 
 ## 🛠️ Tech Stack
 
+**Languages**
+<p align="left">
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" height="36" alt="Python" /></a>
+<a href="https://www.php.net/"><img src="https://cdn.simpleicons.org/php/777BB4" width="36" height="36" alt="PHP" /></a>
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" height="36" alt="C# / .NET" />
+<img src="https://cdn.simpleicons.org/go/00ADD8" width="36" height="36" alt="Go" />
+<img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" height="36" alt="Kotlin" />
+<img src="https://cdn.simpleicons.org/dart/0175C2" width="36" height="36" alt="Dart" />
+</p>
+
 **AI & Backend**
 <p align="left">
-<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="36" height="36" alt="FastAPI" /></a>
-<a href="https://www.php.net/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
+<a href="https://laravel.com/"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" height="36" alt="Laravel" /></a>
 <a href="https://hono.dev/"><img src="https://cdn.simpleicons.org/hono/E36002" width="36" height="36" alt="Hono" /></a>
+<img src="https://cdn.simpleicons.org/django/092E20" width="36" height="36" alt="Django" />
+<img src="https://cdn.simpleicons.org/flask/000000" width="36" height="36" alt="Flask" />
+<img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" />
+<img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" height="36" alt=".NET" />
+<img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI" />
+<img src="https://cdn.simpleicons.org/anthropic/191919" width="36" height="36" alt="Anthropic Claude" />
+<img src="https://cdn.simpleicons.org/ollama/000000" width="36" height="36" alt="Ollama" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36" alt="n8n" />
 </p>
 
 **Frontend**
 <p align="left">
-<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-<a href="https://astro.build/"><img src="https://astro.badg.es/v2/built-with-astro/tiny.svg" width="36" height="36" alt="Astro" /></a>
+<a href="https://astro.build/"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="36" height="36" alt="Astro" /></a>
+<a href="https://reactjs.org/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React" /></a>
+<a href="https://vuejs.org/"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="36" height="36" alt="Vue" /></a>
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" />
+<img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" width="36" height="36" alt="Nuxt" />
+<img src="https://cdn.simpleicons.org/svelte/FF3E00" width="36" height="36" alt="Svelte" />
 <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind" /></a>
 </p>
 
 **Cloud & DevOps**
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" width="36" height="36" alt="Cloudflare" />
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="36" height="36" alt="Docker" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="36" height="36" alt="Azure" />
-<a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="AWS" /></a>
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="Cloudflare" />
+<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="36" height="36" alt="Azure" />
+<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="36" height="36" alt="AWS" />
+<img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" height="36" alt="Google Cloud" />
+<img src="https://cdn.simpleicons.org/hetzner/D50C2D" width="36" height="36" alt="Hetzner" />
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
 <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="36" height="36" alt="Terraform" />
 <img src="https://cdn.simpleicons.org/ansible/EE0000" width="36" height="36" alt="Ansible" />
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="36" height="36" alt="GitHub Actions" />
+<img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="36" height="36" alt="Azure DevOps" />
+<img src="https://cdn.simpleicons.org/nginx/009639" width="36" height="36" alt="Nginx" />
 </p>
 
 **CMS & Data**
 <p align="left">
-<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" width="36" height="36" alt="WordPress" />
-<img src="https://cdn.worldvectorlogo.com/logos/drupal.svg" width="36" height="36" alt="Drupal" />
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" height="36" alt="WordPress" />
+<img src="https://cdn.simpleicons.org/drupal/0678BE" width="36" height="36" alt="Drupal" />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="MySQL" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />
+<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="36" height="36" alt="MSSQL" />
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="MongoDB" />
 <img src="https://cdn.simpleicons.org/sqlite/003B57" width="36" height="36" alt="SQLite" />
 <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="D1 / R2" />
 </p>
@@ -111,19 +140,31 @@ Where I spend most of my energy now — turning LLMs into reliable, shippable sy
 
 ## 🔭 Selected Work
 
+**🏛️ Enterprise Government Platform** — *Government Motor Transport / Western Cape Dept. of Mobility (via Tanzanite)*
+Long-running enterprise engagement (3+ years, extended to Sep 2026) on the GMT platform — solution architecture, IaC-driven cloud infrastructure, CI/CD, POPIA compliance, and automated backup/DR tooling for a public-sector fleet-management platform.
+
+**🎙️ Muslim Central / Quran Central** — *Global Islamic Media Network*
+Software engineering across ~15 entities in the Muslim Central network — web apps, backend APIs, and Android apps powering audio streaming to millions of listeners globally, with SEO, edge delivery, and content pipelines.
+
 **🚢 Cargo Tracking & ECTN Certificate Platform** — *Fortune Holdings*
 Edge-native logistics application for issuing and tracking ECTN certificates, with role-based data access, admin-configurable fields, and a full application-status lifecycle across shippers, agents, and administrators.
 
 **🕌 Al-Tanzil** — *Islamic Scholarly Content Platform*
 An evolving platform for structured Islamic knowledge — surfacing scholarly texts and audio through search, browse, and study flows, with an admin backend for curation and pipelines that ingest and process source PDFs and recordings.
 
-**🏛️ Government Web Solutions** — *Department of the Premier, Western Cape (via GMT)*
-Public-sector web platforms with a strong emphasis on security compliance, automated maintenance, and operational monitoring — plus workflow integrations that connect content operations to the broader team's project management.
+**🏺 War Museum of the Boer Republics** — *SA Dept. of Sport, Arts & Culture*
+Public collection asset display and archive search for the Anglo-Boer War Museum — a WordPress front-of-house paired with a Laravel backend API serving curated museum data.
+
+**🖼️ Iziko Museums of South Africa** — *SA Dept. of Sport, Arts & Culture*
+Backend and cloud maintenance for Iziko's digital collection platform across staging and production, plus Python/Pandas data-processing tooling and a report-generator app that replaced brittle manual Excel workflows.
+
+**🩺 Gaza Educate Medics Scheme** — *gemedu.online*
+Set up Moodle as an authentication provider (SimpleSAMLphp) fronting the AMBOSS medical education platform — enabling SSO for medical students studying under the scheme.
 
 **📊 SMS Manager** — *AI Classification System*
 An ingestion and categorisation pipeline that auto-classifies incoming SMS messages for tax and financial record-keeping, turning noisy inboxes into a structured, queryable ledger.
 
-**🛍️ Commerce & Brand Sites** — *BY BINT, Galimas, Tarbiyyah*
+**🛍️ Commerce & Brand Sites** — *BY BINT, Galimas, Tarbiyyah, TopForm Athletic, Legacy1500*
 End-to-end brand, commerce, and school sites — from design system through delivery — including WhatsApp-driven purchase flows, traditional e-commerce, and content-managed institutional sites.
 
 ---
@@ -138,6 +179,14 @@ I standardise. AppTus runs on a set of named, scaffolded stacks — static/Astro
 <img src="https://img.shields.io/badge/Predictable_Hosting-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/Edge_Native-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
 </p>
+
+---
+
+## 🎓 Education & Credentials
+
+- **BSc Computer Science & Software Engineering** — University of South Africa (UNISA), 2006–2012
+- **Quranic Sciences** — al-Tanzil, 2012–Present
+- **A+ & Networking Certification** — IT Business Campus, 2001
 
 ---
 
@@ -161,9 +210,10 @@ I standardise. AppTus runs on a set of named, scaffolded stacks — static/Astro
 I'm open to **contract engagements, AI/full-stack collaborations, and Islamic open-source projects**. If you're a founder or team looking for someone who can take an idea from architecture to production — and wire in AI that actually works — let's talk.
 
 <p align="left">
-<a href="https://www.github.com/MZMohamed" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-<a href="http://www.instagram.com/zubairdev0" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/85zubair" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/MZMohamed" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/zubair-mohomed-dev" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" /></a>
+<a href="http://www.instagram.com/zubairdev0" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" /></a>
+<a href="https://www.twitter.com/85zubair" target="_blank"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" /></a>
 <a href="mailto:zubair85@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="32" height="32" /></a>
 </p>
 
