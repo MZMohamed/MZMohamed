@@ -112,19 +112,19 @@ Where I spend most of my energy now — turning LLMs into reliable, shippable sy
 ## 🔭 Selected Work
 
 **🚢 Cargo Tracking & ECTN Certificate Platform** — *Fortune Holdings*
-Edge-native logistics application on Cloudflare Workers: **Hono + D1 + Drizzle + React + shadcn**, with role-based data access, admin-configurable fields, and a full application-status lifecycle.
+Edge-native logistics application for issuing and tracking ECTN certificates, with role-based data access, admin-configurable fields, and a full application-status lifecycle across shippers, agents, and administrators.
 
 **🕌 Al-Tanzil** — *Islamic Scholarly Content Platform*
-Astro 5 frontend on Cloudflare Workers + a Laravel/Filament admin, with Python tooling for PDF/audio processing to R2. An evolving, multi-rewrite platform for structured Islamic knowledge.
+An evolving platform for structured Islamic knowledge — surfacing scholarly texts and audio through search, browse, and study flows, with an admin backend for curation and pipelines that ingest and process source PDFs and recordings.
 
 **🏛️ Government Web Solutions** — *Department of the Premier, Western Cape (via GMT)*
-Drupal 10 on Azure App Service — security compliance, automated maintenance tooling (Drupal security checks, Azure health, DB monitoring), and Asana-integrated workflows.
+Public-sector web platforms with a strong emphasis on security compliance, automated maintenance, and operational monitoring — plus workflow integrations that connect content operations to the broader team's project management.
 
 **📊 SMS Manager** — *AI Classification System*
-FastAPI + SQLite + React app that auto-classifies SMS messages for tax/SARS purposes — an LLM-backed ingestion and categorisation pipeline.
+An ingestion and categorisation pipeline that auto-classifies incoming SMS messages for tax and financial record-keeping, turning noisy inboxes into a structured, queryable ledger.
 
 **🛍️ Commerce & Brand Sites** — *BY BINT, Galimas, Tarbiyyah*
-Astro design systems with WhatsApp-only purchase paths, WooCommerce block themes, and Pages-CMS-driven school sites — delivered end to end.
+End-to-end brand, commerce, and school sites — from design system through delivery — including WhatsApp-driven purchase flows, traditional e-commerce, and content-managed institutional sites.
 
 ---
 
