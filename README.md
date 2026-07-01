@@ -6,7 +6,7 @@
 
 **Building AI-native applications and cloud infrastructure for government, education, and enterprise.**
 
-Founder of **AppTus** — a Cape Town web & AI engineering studio shipping compliance-focused, production systems.
+Founder of **AppTus** — a Cape Town Web & AI Engineering company shipping compliance-focused, production systems.
 
 <p align="center">
 <a href="http://zubair.xyz"><img src="https://img.shields.io/badge/Portfolio-zubair.xyz-0891b2?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
@@ -30,7 +30,7 @@ I design and ship AI-native software — from agent orchestration and LLM-powere
 Today my work sits at the intersection of **applied AI, edge-native architectures, and pragmatic delivery** — with a strong bias toward data ownership, predictable costs, and infrastructure-as-code.
 
 - 🤖 **Building with agents daily** — autonomous fleets for marketing, monitoring, and ops, orchestrated across managed and open models via gateways
-- 🏛️ **3+ years on enterprise Drupal + Azure** for the Western Cape Government (via GMT / Tanzanite) — solution architecture, IaC, POPIA compliance
+- 🏛️ **3+ years on enterprise Drupal + Azure** for the Western Cape Government — solution architecture, IaC, POPIA compliance
 - 🎙️ Software engineer at **Muslim Central / Quran Central** since 2018 — audio streaming to millions across ~15 entities
 - 🌍 Running **AppTus**, delivering for government, museums, education, and private enterprise
 - 🕌 Open to collaborating on **Islamic tech** and open-source educational tools
@@ -82,7 +82,7 @@ Where I spend most of my energy now — turning LLMs into reliable, shippable sy
 <img src="https://cdn.simpleicons.org/flask/000000" width="36" height="36" alt="Flask" />
 <img src="https://cdn.simpleicons.org/express/000000" width="36" height="36" alt="Express" />
 <img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" height="36" alt=".NET" />
-<img src="https://cdn.simpleicons.org/openai/412991" width="36" height="36" alt="OpenAI" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="36" height="36" alt="OpenAI" />
 <img src="https://cdn.simpleicons.org/anthropic/191919" width="36" height="36" alt="Anthropic Claude" />
 <img src="https://cdn.simpleicons.org/ollama/000000" width="36" height="36" alt="Ollama" />
 <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="36" height="36" alt="n8n" />
@@ -94,7 +94,7 @@ Where I spend most of my energy now — turning LLMs into reliable, shippable sy
 <a href="https://reactjs.org/"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" height="36" alt="React" /></a>
 <a href="https://vuejs.org/"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="36" height="36" alt="Vue" /></a>
 <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="36" height="36" alt="Next.js" />
-<img src="https://cdn.simpleicons.org/nuxtdotjs/00DC82" width="36" height="36" alt="Nuxt" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg" width="36" height="36" alt="Nuxt" />
 <img src="https://cdn.simpleicons.org/svelte/FF3E00" width="36" height="36" alt="Svelte" />
 <a href="https://tailwindcss.com/"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" height="36" alt="Tailwind" /></a>
 </p>
@@ -102,15 +102,15 @@ Where I spend most of my energy now — turning LLMs into reliable, shippable sy
 **Cloud & DevOps**
 <p align="left">
 <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="Cloudflare" />
-<img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="36" height="36" alt="Azure" />
-<img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="36" height="36" alt="AWS" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="36" height="36" alt="Azure" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" height="36" alt="AWS" />
 <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" height="36" alt="Google Cloud" />
 <img src="https://cdn.simpleicons.org/hetzner/D50C2D" width="36" height="36" alt="Hetzner" />
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" alt="Docker" />
 <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="36" height="36" alt="Terraform" />
 <img src="https://cdn.simpleicons.org/ansible/EE0000" width="36" height="36" alt="Ansible" />
 <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="36" height="36" alt="GitHub Actions" />
-<img src="https://cdn.simpleicons.org/azuredevops/0078D7" width="36" height="36" alt="Azure DevOps" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="36" height="36" alt="Azure DevOps" />
 <img src="https://cdn.simpleicons.org/nginx/009639" width="36" height="36" alt="Nginx" />
 </p>
 
@@ -120,7 +120,7 @@ Where I spend most of my energy now — turning LLMs into reliable, shippable sy
 <img src="https://cdn.simpleicons.org/drupal/0678BE" width="36" height="36" alt="Drupal" />
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" height="36" alt="MySQL" />
 <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" height="36" alt="PostgreSQL" />
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="36" height="36" alt="MSSQL" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="MSSQL" />
 <img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" height="36" alt="MongoDB" />
 <img src="https://cdn.simpleicons.org/sqlite/003B57" width="36" height="36" alt="SQLite" />
 <img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" height="36" alt="D1 / R2" />
